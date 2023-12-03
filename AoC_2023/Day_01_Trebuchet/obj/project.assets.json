@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\henri\\Documents\\repos\\AoC_2023\\AoC_2023\\AoC_2023\\Day_01_Trebuchet.csproj",
+      "projectUniqueName": "C:\\Users\\henri\\Documents\\repos\\AoC_2023\\AoC_2023\\Day_01_Trebuchet\\Day_01_Trebuchet.csproj",
       "projectName": "Day_01_Trebuchet",
-      "projectPath": "C:\\Users\\henri\\Documents\\repos\\AoC_2023\\AoC_2023\\AoC_2023\\Day_01_Trebuchet.csproj",
+      "projectPath": "C:\\Users\\henri\\Documents\\repos\\AoC_2023\\AoC_2023\\Day_01_Trebuchet\\Day_01_Trebuchet.csproj",
       "packagesPath": "C:\\Users\\henri\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\henri\\Documents\\repos\\AoC_2023\\AoC_2023\\AoC_2023\\obj\\",
+      "outputPath": "C:\\Users\\henri\\Documents\\repos\\AoC_2023\\AoC_2023\\Day_01_Trebuchet\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "E:\\Program Files (x86)\\Microsoft Visual Studio\\NuGetPackages"
