@@ -1,0 +1,17 @@
+C:\Users\henri\Documents\repos\AoC_2023\AoC_2023\Day_02_Cube_Conundrum\bin\Debug\net6.0\resources\day_02_first-input.txt
+C:\Users\henri\Documents\repos\AoC_2023\AoC_2023\Day_02_Cube_Conundrum\bin\Debug\net6.0\resources\day_02_test-input.txt
+C:\Users\henri\Documents\repos\AoC_2023\AoC_2023\Day_02_Cube_Conundrum\bin\Debug\net6.0\Day_02_Cube_Conundrum.exe
+C:\Users\henri\Documents\repos\AoC_2023\AoC_2023\Day_02_Cube_Conundrum\bin\Debug\net6.0\Day_02_Cube_Conundrum.deps.json
+C:\Users\henri\Documents\repos\AoC_2023\AoC_2023\Day_02_Cube_Conundrum\bin\Debug\net6.0\Day_02_Cube_Conundrum.runtimeconfig.json
+C:\Users\henri\Documents\repos\AoC_2023\AoC_2023\Day_02_Cube_Conundrum\bin\Debug\net6.0\Day_02_Cube_Conundrum.dll
+C:\Users\henri\Documents\repos\AoC_2023\AoC_2023\Day_02_Cube_Conundrum\bin\Debug\net6.0\Day_02_Cube_Conundrum.pdb
+C:\Users\henri\Documents\repos\AoC_2023\AoC_2023\Day_02_Cube_Conundrum\obj\Debug\net6.0\Day_02_Cube_Conundrum.csproj.AssemblyReference.cache
+C:\Users\henri\Documents\repos\AoC_2023\AoC_2023\Day_02_Cube_Conundrum\obj\Debug\net6.0\Day_02_Cube_Conundrum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\henri\Documents\repos\AoC_2023\AoC_2023\Day_02_Cube_Conundrum\obj\Debug\net6.0\Day_02_Cube_Conundrum.AssemblyInfoInputs.cache
+C:\Users\henri\Documents\repos\AoC_2023\AoC_2023\Day_02_Cube_Conundrum\obj\Debug\net6.0\Day_02_Cube_Conundrum.AssemblyInfo.cs
+C:\Users\henri\Documents\repos\AoC_2023\AoC_2023\Day_02_Cube_Conundrum\obj\Debug\net6.0\Day_02_Cube_Conundrum.csproj.CoreCompileInputs.cache
+C:\Users\henri\Documents\repos\AoC_2023\AoC_2023\Day_02_Cube_Conundrum\obj\Debug\net6.0\Day_02_Cube_Conundrum.dll
+C:\Users\henri\Documents\repos\AoC_2023\AoC_2023\Day_02_Cube_Conundrum\obj\Debug\net6.0\refint\Day_02_Cube_Conundrum.dll
+C:\Users\henri\Documents\repos\AoC_2023\AoC_2023\Day_02_Cube_Conundrum\obj\Debug\net6.0\Day_02_Cube_Conundrum.pdb
+C:\Users\henri\Documents\repos\AoC_2023\AoC_2023\Day_02_Cube_Conundrum\obj\Debug\net6.0\Day_02_Cube_Conundrum.genruntimeconfig.cache
+C:\Users\henri\Documents\repos\AoC_2023\AoC_2023\Day_02_Cube_Conundrum\obj\Debug\net6.0\ref\Day_02_Cube_Conundrum.dll
