@@ -1,0 +1,17 @@
+C:\Users\henri\Documents\repos\AoC_2023\AoC_2023\Day_04_Scratchcards\bin\Debug\net6.0\resources\day_04_first-input.txt
+C:\Users\henri\Documents\repos\AoC_2023\AoC_2023\Day_04_Scratchcards\bin\Debug\net6.0\resources\day_04_test-input.txt
+C:\Users\henri\Documents\repos\AoC_2023\AoC_2023\Day_04_Scratchcards\bin\Debug\net6.0\Day_04_Scratchcards.exe
+C:\Users\henri\Documents\repos\AoC_2023\AoC_2023\Day_04_Scratchcards\bin\Debug\net6.0\Day_04_Scratchcards.deps.json
+C:\Users\henri\Documents\repos\AoC_2023\AoC_2023\Day_04_Scratchcards\bin\Debug\net6.0\Day_04_Scratchcards.runtimeconfig.json
+C:\Users\henri\Documents\repos\AoC_2023\AoC_2023\Day_04_Scratchcards\bin\Debug\net6.0\Day_04_Scratchcards.dll
+C:\Users\henri\Documents\repos\AoC_2023\AoC_2023\Day_04_Scratchcards\bin\Debug\net6.0\Day_04_Scratchcards.pdb
+C:\Users\henri\Documents\repos\AoC_2023\AoC_2023\Day_04_Scratchcards\obj\Debug\net6.0\Day_04_Scratchcards.csproj.AssemblyReference.cache
+C:\Users\henri\Documents\repos\AoC_2023\AoC_2023\Day_04_Scratchcards\obj\Debug\net6.0\Day_04_Scratchcards.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\henri\Documents\repos\AoC_2023\AoC_2023\Day_04_Scratchcards\obj\Debug\net6.0\Day_04_Scratchcards.AssemblyInfoInputs.cache
+C:\Users\henri\Documents\repos\AoC_2023\AoC_2023\Day_04_Scratchcards\obj\Debug\net6.0\Day_04_Scratchcards.AssemblyInfo.cs
+C:\Users\henri\Documents\repos\AoC_2023\AoC_2023\Day_04_Scratchcards\obj\Debug\net6.0\Day_04_Scratchcards.csproj.CoreCompileInputs.cache
+C:\Users\henri\Documents\repos\AoC_2023\AoC_2023\Day_04_Scratchcards\obj\Debug\net6.0\Day_04_Scratchcards.dll
+C:\Users\henri\Documents\repos\AoC_2023\AoC_2023\Day_04_Scratchcards\obj\Debug\net6.0\refint\Day_04_Scratchcards.dll
+C:\Users\henri\Documents\repos\AoC_2023\AoC_2023\Day_04_Scratchcards\obj\Debug\net6.0\Day_04_Scratchcards.pdb
+C:\Users\henri\Documents\repos\AoC_2023\AoC_2023\Day_04_Scratchcards\obj\Debug\net6.0\Day_04_Scratchcards.genruntimeconfig.cache
+C:\Users\henri\Documents\repos\AoC_2023\AoC_2023\Day_04_Scratchcards\obj\Debug\net6.0\ref\Day_04_Scratchcards.dll
