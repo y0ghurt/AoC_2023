@@ -1,0 +1,17 @@
+C:\Users\henri\Documents\repos\AoC_2023\AoC_2023\Day_05_Seed_Location\bin\Debug\net6.0\resources\day_05_first-input.txt
+C:\Users\henri\Documents\repos\AoC_2023\AoC_2023\Day_05_Seed_Location\bin\Debug\net6.0\resources\day_05_test-input.txt
+C:\Users\henri\Documents\repos\AoC_2023\AoC_2023\Day_05_Seed_Location\bin\Debug\net6.0\Day_05_Seed_Location.exe
+C:\Users\henri\Documents\repos\AoC_2023\AoC_2023\Day_05_Seed_Location\bin\Debug\net6.0\Day_05_Seed_Location.deps.json
+C:\Users\henri\Documents\repos\AoC_2023\AoC_2023\Day_05_Seed_Location\bin\Debug\net6.0\Day_05_Seed_Location.runtimeconfig.json
+C:\Users\henri\Documents\repos\AoC_2023\AoC_2023\Day_05_Seed_Location\bin\Debug\net6.0\Day_05_Seed_Location.dll
+C:\Users\henri\Documents\repos\AoC_2023\AoC_2023\Day_05_Seed_Location\bin\Debug\net6.0\Day_05_Seed_Location.pdb
+C:\Users\henri\Documents\repos\AoC_2023\AoC_2023\Day_05_Seed_Location\obj\Debug\net6.0\Day_05_Seed_Location.csproj.AssemblyReference.cache
+C:\Users\henri\Documents\repos\AoC_2023\AoC_2023\Day_05_Seed_Location\obj\Debug\net6.0\Day_05_Seed_Location.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\henri\Documents\repos\AoC_2023\AoC_2023\Day_05_Seed_Location\obj\Debug\net6.0\Day_05_Seed_Location.AssemblyInfoInputs.cache
+C:\Users\henri\Documents\repos\AoC_2023\AoC_2023\Day_05_Seed_Location\obj\Debug\net6.0\Day_05_Seed_Location.AssemblyInfo.cs
+C:\Users\henri\Documents\repos\AoC_2023\AoC_2023\Day_05_Seed_Location\obj\Debug\net6.0\Day_05_Seed_Location.csproj.CoreCompileInputs.cache
+C:\Users\henri\Documents\repos\AoC_2023\AoC_2023\Day_05_Seed_Location\obj\Debug\net6.0\Day_05_Seed_Location.dll
+C:\Users\henri\Documents\repos\AoC_2023\AoC_2023\Day_05_Seed_Location\obj\Debug\net6.0\refint\Day_05_Seed_Location.dll
+C:\Users\henri\Documents\repos\AoC_2023\AoC_2023\Day_05_Seed_Location\obj\Debug\net6.0\Day_05_Seed_Location.pdb
+C:\Users\henri\Documents\repos\AoC_2023\AoC_2023\Day_05_Seed_Location\obj\Debug\net6.0\Day_05_Seed_Location.genruntimeconfig.cache
+C:\Users\henri\Documents\repos\AoC_2023\AoC_2023\Day_05_Seed_Location\obj\Debug\net6.0\ref\Day_05_Seed_Location.dll
