@@ -1,0 +1,17 @@
+C:\Users\henri\Documents\repos\AoC_2023\AoC_2023\Day_06_Wait_For_It\bin\Debug\net6.0\resources\day_06_first-input.txt
+C:\Users\henri\Documents\repos\AoC_2023\AoC_2023\Day_06_Wait_For_It\bin\Debug\net6.0\resources\day_06_test-input.txt
+C:\Users\henri\Documents\repos\AoC_2023\AoC_2023\Day_06_Wait_For_It\bin\Debug\net6.0\Day_06_Wait_For_It.exe
+C:\Users\henri\Documents\repos\AoC_2023\AoC_2023\Day_06_Wait_For_It\bin\Debug\net6.0\Day_06_Wait_For_It.deps.json
+C:\Users\henri\Documents\repos\AoC_2023\AoC_2023\Day_06_Wait_For_It\bin\Debug\net6.0\Day_06_Wait_For_It.runtimeconfig.json
+C:\Users\henri\Documents\repos\AoC_2023\AoC_2023\Day_06_Wait_For_It\bin\Debug\net6.0\Day_06_Wait_For_It.dll
+C:\Users\henri\Documents\repos\AoC_2023\AoC_2023\Day_06_Wait_For_It\bin\Debug\net6.0\Day_06_Wait_For_It.pdb
+C:\Users\henri\Documents\repos\AoC_2023\AoC_2023\Day_06_Wait_For_It\obj\Debug\net6.0\Day_06_Wait_For_It.csproj.AssemblyReference.cache
+C:\Users\henri\Documents\repos\AoC_2023\AoC_2023\Day_06_Wait_For_It\obj\Debug\net6.0\Day_06_Wait_For_It.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\henri\Documents\repos\AoC_2023\AoC_2023\Day_06_Wait_For_It\obj\Debug\net6.0\Day_06_Wait_For_It.AssemblyInfoInputs.cache
+C:\Users\henri\Documents\repos\AoC_2023\AoC_2023\Day_06_Wait_For_It\obj\Debug\net6.0\Day_06_Wait_For_It.AssemblyInfo.cs
+C:\Users\henri\Documents\repos\AoC_2023\AoC_2023\Day_06_Wait_For_It\obj\Debug\net6.0\Day_06_Wait_For_It.csproj.CoreCompileInputs.cache
+C:\Users\henri\Documents\repos\AoC_2023\AoC_2023\Day_06_Wait_For_It\obj\Debug\net6.0\Day_06_Wait_For_It.dll
+C:\Users\henri\Documents\repos\AoC_2023\AoC_2023\Day_06_Wait_For_It\obj\Debug\net6.0\refint\Day_06_Wait_For_It.dll
+C:\Users\henri\Documents\repos\AoC_2023\AoC_2023\Day_06_Wait_For_It\obj\Debug\net6.0\Day_06_Wait_For_It.pdb
+C:\Users\henri\Documents\repos\AoC_2023\AoC_2023\Day_06_Wait_For_It\obj\Debug\net6.0\Day_06_Wait_For_It.genruntimeconfig.cache
+C:\Users\henri\Documents\repos\AoC_2023\AoC_2023\Day_06_Wait_For_It\obj\Debug\net6.0\ref\Day_06_Wait_For_It.dll
