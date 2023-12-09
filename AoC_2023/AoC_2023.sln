@@ -17,7 +17,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day_06_Wait_For_It", "Day_0
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day_07_Camel_Cards", "Day_07_Camel_Cards\Day_07_Camel_Cards.csproj", "{78C46CBC-A447-4DAD-BD7E-0A03B4D815B4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day_08_Haunted_Wasteland", "Day_08_Haunted_Wasteland\Day_08_Haunted_Wasteland.csproj", "{7C74A334-A834-4423-8AE4-2F247A942FEB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day_08_Haunted_Wasteland", "Day_08_Haunted_Wasteland\Day_08_Haunted_Wasteland.csproj", "{7C74A334-A834-4423-8AE4-2F247A942FEB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day_09_Mirage_Maintenance", "Day_09_Mirage_Maintenance\Day_09_Mirage_Maintenance.csproj", "{3F719B79-8E27-45FE-9E7A-DEF59D07C596}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -57,6 +59,10 @@ Global
 		{7C74A334-A834-4423-8AE4-2F247A942FEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7C74A334-A834-4423-8AE4-2F247A942FEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7C74A334-A834-4423-8AE4-2F247A942FEB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3F719B79-8E27-45FE-9E7A-DEF59D07C596}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F719B79-8E27-45FE-9E7A-DEF59D07C596}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F719B79-8E27-45FE-9E7A-DEF59D07C596}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F719B79-8E27-45FE-9E7A-DEF59D07C596}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

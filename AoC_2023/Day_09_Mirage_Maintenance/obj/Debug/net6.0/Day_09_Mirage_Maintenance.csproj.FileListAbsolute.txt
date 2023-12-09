@@ -1,0 +1,17 @@
+C:\Users\henri\Documents\repos\AoC_2023\AoC_2023\Day_09_Mirage_Maintenance\bin\Debug\net6.0\resources\day_09_first-input.txt
+C:\Users\henri\Documents\repos\AoC_2023\AoC_2023\Day_09_Mirage_Maintenance\bin\Debug\net6.0\resources\day_09_test-input.txt
+C:\Users\henri\Documents\repos\AoC_2023\AoC_2023\Day_09_Mirage_Maintenance\bin\Debug\net6.0\Day_09_Mirage_Maintenance.exe
+C:\Users\henri\Documents\repos\AoC_2023\AoC_2023\Day_09_Mirage_Maintenance\bin\Debug\net6.0\Day_09_Mirage_Maintenance.deps.json
+C:\Users\henri\Documents\repos\AoC_2023\AoC_2023\Day_09_Mirage_Maintenance\bin\Debug\net6.0\Day_09_Mirage_Maintenance.runtimeconfig.json
+C:\Users\henri\Documents\repos\AoC_2023\AoC_2023\Day_09_Mirage_Maintenance\bin\Debug\net6.0\Day_09_Mirage_Maintenance.dll
+C:\Users\henri\Documents\repos\AoC_2023\AoC_2023\Day_09_Mirage_Maintenance\bin\Debug\net6.0\Day_09_Mirage_Maintenance.pdb
+C:\Users\henri\Documents\repos\AoC_2023\AoC_2023\Day_09_Mirage_Maintenance\obj\Debug\net6.0\Day_09_Mirage_Maintenance.csproj.AssemblyReference.cache
+C:\Users\henri\Documents\repos\AoC_2023\AoC_2023\Day_09_Mirage_Maintenance\obj\Debug\net6.0\Day_09_Mirage_Maintenance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\henri\Documents\repos\AoC_2023\AoC_2023\Day_09_Mirage_Maintenance\obj\Debug\net6.0\Day_09_Mirage_Maintenance.AssemblyInfoInputs.cache
+C:\Users\henri\Documents\repos\AoC_2023\AoC_2023\Day_09_Mirage_Maintenance\obj\Debug\net6.0\Day_09_Mirage_Maintenance.AssemblyInfo.cs
+C:\Users\henri\Documents\repos\AoC_2023\AoC_2023\Day_09_Mirage_Maintenance\obj\Debug\net6.0\Day_09_Mirage_Maintenance.csproj.CoreCompileInputs.cache
+C:\Users\henri\Documents\repos\AoC_2023\AoC_2023\Day_09_Mirage_Maintenance\obj\Debug\net6.0\Day_09_Mirage_Maintenance.dll
+C:\Users\henri\Documents\repos\AoC_2023\AoC_2023\Day_09_Mirage_Maintenance\obj\Debug\net6.0\refint\Day_09_Mirage_Maintenance.dll
+C:\Users\henri\Documents\repos\AoC_2023\AoC_2023\Day_09_Mirage_Maintenance\obj\Debug\net6.0\Day_09_Mirage_Maintenance.pdb
+C:\Users\henri\Documents\repos\AoC_2023\AoC_2023\Day_09_Mirage_Maintenance\obj\Debug\net6.0\Day_09_Mirage_Maintenance.genruntimeconfig.cache
+C:\Users\henri\Documents\repos\AoC_2023\AoC_2023\Day_09_Mirage_Maintenance\obj\Debug\net6.0\ref\Day_09_Mirage_Maintenance.dll
