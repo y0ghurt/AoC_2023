@@ -1,0 +1,17 @@
+C:\Users\henri\Documents\repos\AoC_2023\AoC_2023\Day_07_Camel_Cards\bin\Debug\net6.0\resources\day_07_first-input.txt
+C:\Users\henri\Documents\repos\AoC_2023\AoC_2023\Day_07_Camel_Cards\bin\Debug\net6.0\resources\day_07_test-input.txt
+C:\Users\henri\Documents\repos\AoC_2023\AoC_2023\Day_07_Camel_Cards\bin\Debug\net6.0\Day_07_Camel_Cards.exe
+C:\Users\henri\Documents\repos\AoC_2023\AoC_2023\Day_07_Camel_Cards\bin\Debug\net6.0\Day_07_Camel_Cards.deps.json
+C:\Users\henri\Documents\repos\AoC_2023\AoC_2023\Day_07_Camel_Cards\bin\Debug\net6.0\Day_07_Camel_Cards.runtimeconfig.json
+C:\Users\henri\Documents\repos\AoC_2023\AoC_2023\Day_07_Camel_Cards\bin\Debug\net6.0\Day_07_Camel_Cards.dll
+C:\Users\henri\Documents\repos\AoC_2023\AoC_2023\Day_07_Camel_Cards\bin\Debug\net6.0\Day_07_Camel_Cards.pdb
+C:\Users\henri\Documents\repos\AoC_2023\AoC_2023\Day_07_Camel_Cards\obj\Debug\net6.0\Day_07_Camel_Cards.csproj.AssemblyReference.cache
+C:\Users\henri\Documents\repos\AoC_2023\AoC_2023\Day_07_Camel_Cards\obj\Debug\net6.0\Day_07_Camel_Cards.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\henri\Documents\repos\AoC_2023\AoC_2023\Day_07_Camel_Cards\obj\Debug\net6.0\Day_07_Camel_Cards.AssemblyInfoInputs.cache
+C:\Users\henri\Documents\repos\AoC_2023\AoC_2023\Day_07_Camel_Cards\obj\Debug\net6.0\Day_07_Camel_Cards.AssemblyInfo.cs
+C:\Users\henri\Documents\repos\AoC_2023\AoC_2023\Day_07_Camel_Cards\obj\Debug\net6.0\Day_07_Camel_Cards.csproj.CoreCompileInputs.cache
+C:\Users\henri\Documents\repos\AoC_2023\AoC_2023\Day_07_Camel_Cards\obj\Debug\net6.0\Day_07_Camel_Cards.dll
+C:\Users\henri\Documents\repos\AoC_2023\AoC_2023\Day_07_Camel_Cards\obj\Debug\net6.0\refint\Day_07_Camel_Cards.dll
+C:\Users\henri\Documents\repos\AoC_2023\AoC_2023\Day_07_Camel_Cards\obj\Debug\net6.0\Day_07_Camel_Cards.pdb
+C:\Users\henri\Documents\repos\AoC_2023\AoC_2023\Day_07_Camel_Cards\obj\Debug\net6.0\Day_07_Camel_Cards.genruntimeconfig.cache
+C:\Users\henri\Documents\repos\AoC_2023\AoC_2023\Day_07_Camel_Cards\obj\Debug\net6.0\ref\Day_07_Camel_Cards.dll
