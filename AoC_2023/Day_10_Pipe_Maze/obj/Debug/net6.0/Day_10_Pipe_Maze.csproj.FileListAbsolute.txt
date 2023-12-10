@@ -1,0 +1,17 @@
+C:\Users\henri\Documents\repos\AoC_2023\AoC_2023\Day_10_Pipe_Maze\bin\Debug\net6.0\resources\day_10_first-input.txt
+C:\Users\henri\Documents\repos\AoC_2023\AoC_2023\Day_10_Pipe_Maze\bin\Debug\net6.0\resources\day_10_test-input.txt
+C:\Users\henri\Documents\repos\AoC_2023\AoC_2023\Day_10_Pipe_Maze\bin\Debug\net6.0\Day_10_Pipe_Maze.exe
+C:\Users\henri\Documents\repos\AoC_2023\AoC_2023\Day_10_Pipe_Maze\bin\Debug\net6.0\Day_10_Pipe_Maze.deps.json
+C:\Users\henri\Documents\repos\AoC_2023\AoC_2023\Day_10_Pipe_Maze\bin\Debug\net6.0\Day_10_Pipe_Maze.runtimeconfig.json
+C:\Users\henri\Documents\repos\AoC_2023\AoC_2023\Day_10_Pipe_Maze\bin\Debug\net6.0\Day_10_Pipe_Maze.dll
+C:\Users\henri\Documents\repos\AoC_2023\AoC_2023\Day_10_Pipe_Maze\bin\Debug\net6.0\Day_10_Pipe_Maze.pdb
+C:\Users\henri\Documents\repos\AoC_2023\AoC_2023\Day_10_Pipe_Maze\obj\Debug\net6.0\Day_10_Pipe_Maze.csproj.AssemblyReference.cache
+C:\Users\henri\Documents\repos\AoC_2023\AoC_2023\Day_10_Pipe_Maze\obj\Debug\net6.0\Day_10_Pipe_Maze.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\henri\Documents\repos\AoC_2023\AoC_2023\Day_10_Pipe_Maze\obj\Debug\net6.0\Day_10_Pipe_Maze.AssemblyInfoInputs.cache
+C:\Users\henri\Documents\repos\AoC_2023\AoC_2023\Day_10_Pipe_Maze\obj\Debug\net6.0\Day_10_Pipe_Maze.AssemblyInfo.cs
+C:\Users\henri\Documents\repos\AoC_2023\AoC_2023\Day_10_Pipe_Maze\obj\Debug\net6.0\Day_10_Pipe_Maze.csproj.CoreCompileInputs.cache
+C:\Users\henri\Documents\repos\AoC_2023\AoC_2023\Day_10_Pipe_Maze\obj\Debug\net6.0\Day_10_Pipe_Maze.dll
+C:\Users\henri\Documents\repos\AoC_2023\AoC_2023\Day_10_Pipe_Maze\obj\Debug\net6.0\refint\Day_10_Pipe_Maze.dll
+C:\Users\henri\Documents\repos\AoC_2023\AoC_2023\Day_10_Pipe_Maze\obj\Debug\net6.0\Day_10_Pipe_Maze.pdb
+C:\Users\henri\Documents\repos\AoC_2023\AoC_2023\Day_10_Pipe_Maze\obj\Debug\net6.0\Day_10_Pipe_Maze.genruntimeconfig.cache
+C:\Users\henri\Documents\repos\AoC_2023\AoC_2023\Day_10_Pipe_Maze\obj\Debug\net6.0\ref\Day_10_Pipe_Maze.dll
