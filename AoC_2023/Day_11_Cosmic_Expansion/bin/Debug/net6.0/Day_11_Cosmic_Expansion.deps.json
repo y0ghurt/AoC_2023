@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Day_11_Cosmic_Expansion/1.0.0": {
+        "runtime": {
+          "Day_11_Cosmic_Expansion.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Day_11_Cosmic_Expansion/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

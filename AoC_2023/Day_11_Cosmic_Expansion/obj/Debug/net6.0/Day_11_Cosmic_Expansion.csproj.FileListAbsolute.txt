@@ -1,0 +1,17 @@
+C:\Users\henri\Documents\repos\AoC_2023\AoC_2023\Day_11_Cosmic_Expansion\bin\Debug\net6.0\resources\day_11_first-input.txt
+C:\Users\henri\Documents\repos\AoC_2023\AoC_2023\Day_11_Cosmic_Expansion\bin\Debug\net6.0\resources\day_11_test-input.txt
+C:\Users\henri\Documents\repos\AoC_2023\AoC_2023\Day_11_Cosmic_Expansion\bin\Debug\net6.0\Day_11_Cosmic_Expansion.exe
+C:\Users\henri\Documents\repos\AoC_2023\AoC_2023\Day_11_Cosmic_Expansion\bin\Debug\net6.0\Day_11_Cosmic_Expansion.deps.json
+C:\Users\henri\Documents\repos\AoC_2023\AoC_2023\Day_11_Cosmic_Expansion\bin\Debug\net6.0\Day_11_Cosmic_Expansion.runtimeconfig.json
+C:\Users\henri\Documents\repos\AoC_2023\AoC_2023\Day_11_Cosmic_Expansion\bin\Debug\net6.0\Day_11_Cosmic_Expansion.dll
+C:\Users\henri\Documents\repos\AoC_2023\AoC_2023\Day_11_Cosmic_Expansion\bin\Debug\net6.0\Day_11_Cosmic_Expansion.pdb
+C:\Users\henri\Documents\repos\AoC_2023\AoC_2023\Day_11_Cosmic_Expansion\obj\Debug\net6.0\Day_11_Cosmic_Expansion.csproj.AssemblyReference.cache
+C:\Users\henri\Documents\repos\AoC_2023\AoC_2023\Day_11_Cosmic_Expansion\obj\Debug\net6.0\Day_11_Cosmic_Expansion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\henri\Documents\repos\AoC_2023\AoC_2023\Day_11_Cosmic_Expansion\obj\Debug\net6.0\Day_11_Cosmic_Expansion.AssemblyInfoInputs.cache
+C:\Users\henri\Documents\repos\AoC_2023\AoC_2023\Day_11_Cosmic_Expansion\obj\Debug\net6.0\Day_11_Cosmic_Expansion.AssemblyInfo.cs
+C:\Users\henri\Documents\repos\AoC_2023\AoC_2023\Day_11_Cosmic_Expansion\obj\Debug\net6.0\Day_11_Cosmic_Expansion.csproj.CoreCompileInputs.cache
+C:\Users\henri\Documents\repos\AoC_2023\AoC_2023\Day_11_Cosmic_Expansion\obj\Debug\net6.0\Day_11_Cosmic_Expansion.dll
+C:\Users\henri\Documents\repos\AoC_2023\AoC_2023\Day_11_Cosmic_Expansion\obj\Debug\net6.0\refint\Day_11_Cosmic_Expansion.dll
+C:\Users\henri\Documents\repos\AoC_2023\AoC_2023\Day_11_Cosmic_Expansion\obj\Debug\net6.0\Day_11_Cosmic_Expansion.pdb
+C:\Users\henri\Documents\repos\AoC_2023\AoC_2023\Day_11_Cosmic_Expansion\obj\Debug\net6.0\Day_11_Cosmic_Expansion.genruntimeconfig.cache
+C:\Users\henri\Documents\repos\AoC_2023\AoC_2023\Day_11_Cosmic_Expansion\obj\Debug\net6.0\ref\Day_11_Cosmic_Expansion.dll
