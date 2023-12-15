@@ -1,0 +1,17 @@
+C:\Users\henri\Documents\repos\AoC_2023\AoC_2023\Day_12_Hot_Springs\bin\Debug\net6.0\resources\day_12_first-input.txt
+C:\Users\henri\Documents\repos\AoC_2023\AoC_2023\Day_12_Hot_Springs\bin\Debug\net6.0\resources\day_12_test-input.txt
+C:\Users\henri\Documents\repos\AoC_2023\AoC_2023\Day_12_Hot_Springs\bin\Debug\net6.0\Day_12_Hot_Springs.exe
+C:\Users\henri\Documents\repos\AoC_2023\AoC_2023\Day_12_Hot_Springs\bin\Debug\net6.0\Day_12_Hot_Springs.deps.json
+C:\Users\henri\Documents\repos\AoC_2023\AoC_2023\Day_12_Hot_Springs\bin\Debug\net6.0\Day_12_Hot_Springs.runtimeconfig.json
+C:\Users\henri\Documents\repos\AoC_2023\AoC_2023\Day_12_Hot_Springs\bin\Debug\net6.0\Day_12_Hot_Springs.dll
+C:\Users\henri\Documents\repos\AoC_2023\AoC_2023\Day_12_Hot_Springs\bin\Debug\net6.0\Day_12_Hot_Springs.pdb
+C:\Users\henri\Documents\repos\AoC_2023\AoC_2023\Day_12_Hot_Springs\obj\Debug\net6.0\Day_12_Hot_Springs.csproj.AssemblyReference.cache
+C:\Users\henri\Documents\repos\AoC_2023\AoC_2023\Day_12_Hot_Springs\obj\Debug\net6.0\Day_12_Hot_Springs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\henri\Documents\repos\AoC_2023\AoC_2023\Day_12_Hot_Springs\obj\Debug\net6.0\Day_12_Hot_Springs.AssemblyInfoInputs.cache
+C:\Users\henri\Documents\repos\AoC_2023\AoC_2023\Day_12_Hot_Springs\obj\Debug\net6.0\Day_12_Hot_Springs.AssemblyInfo.cs
+C:\Users\henri\Documents\repos\AoC_2023\AoC_2023\Day_12_Hot_Springs\obj\Debug\net6.0\Day_12_Hot_Springs.csproj.CoreCompileInputs.cache
+C:\Users\henri\Documents\repos\AoC_2023\AoC_2023\Day_12_Hot_Springs\obj\Debug\net6.0\Day_12_Hot_Springs.dll
+C:\Users\henri\Documents\repos\AoC_2023\AoC_2023\Day_12_Hot_Springs\obj\Debug\net6.0\refint\Day_12_Hot_Springs.dll
+C:\Users\henri\Documents\repos\AoC_2023\AoC_2023\Day_12_Hot_Springs\obj\Debug\net6.0\Day_12_Hot_Springs.pdb
+C:\Users\henri\Documents\repos\AoC_2023\AoC_2023\Day_12_Hot_Springs\obj\Debug\net6.0\Day_12_Hot_Springs.genruntimeconfig.cache
+C:\Users\henri\Documents\repos\AoC_2023\AoC_2023\Day_12_Hot_Springs\obj\Debug\net6.0\ref\Day_12_Hot_Springs.dll
